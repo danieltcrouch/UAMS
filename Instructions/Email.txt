@@ -1,0 +1,8 @@
+I finished development of the site. You can access it here: http://uams.webutu.com/. It can be accessed from any computer with an internet connection. It can also be made into a shortcut on a mobile device or tablet like this.
+
+I am attaching two documents, one with explanations as to how everything works and instructions as to how to update the tests for different groups, and the other with passwords in order to use everything.You'll notice on the site that their are some default pictures. In the document, it explains how to change the pictures for the test. we can change anything else on the site that you want, just let me know and I'll look at it. 
+Obviously, before distributing this to the clients, if y'all could go through the site, use it and test it, that would be great. There might be some bugs in there that need to be found. 
+
+--
+
+I am changing the email to the hosting site to your email: lrankey@uams.edu, so I can use my email for a different site.
